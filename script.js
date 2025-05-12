@@ -1,4 +1,4 @@
-const apiKey = 'YOUR_TMDB_API_KEY'; // Replace with your TMDb API key
+const apiKey = 'b3b72500cc5ff1f8a82106bd8c6c33fb';
 
 function getMovie() {
   const movie = document.getElementById('movie').value;
